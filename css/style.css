@@ -1,0 +1,46 @@
+/***** TAG *****/
+
+body {
+    background-color: #DBE2EF;
+    text-align: center;
+    margin: 0;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+h1 {
+    display: inline-block;
+}
+
+p, h1, h2, h3, h4 {
+    font-family: Garamond, serif;
+}
+
+/***** Classes *****/
+.superior {
+    background-color: #DBE2EF;
+    position: relative;
+    padding-top: 100px;
+    width: 650px;
+    margin: 0   auto;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 50px;
+    top: 75px; 
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 50px;
+    bottom: 300px;
+}
+
+/* .meio {
+
+}
+
+.inferior {
+
+} */
+/***** IDs *****/
